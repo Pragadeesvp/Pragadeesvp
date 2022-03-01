@@ -26,7 +26,9 @@ I like to:
 
 
 ### Find me around the web🌐
-Social Networking [LinkedIn](https://www.linkedin.com/in/pragadeeswarans/)
+- [LinkedIn](https://www.linkedin.com/in/pragadeeswarans/)
+- [Instagram](https://www.instagram.com/__.pragadees__/)
+- [Facebook](https://m.facebook.com/profile.php?id=100010540517154)
 
 Language Known:
 - English 
