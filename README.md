@@ -9,7 +9,7 @@ I’m currently studying as **Electronics Engineer** @ **PA College Of Engineeri
 Skills:
 -  C, Java
 - HTML, CSS, JavaScript & Bootstrap
-- Public Speaking
+- Photoshop & Video Animations
 
 I like to:
 - develop the software that would solve the real problems and makes the world a better place.
