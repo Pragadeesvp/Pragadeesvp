@@ -1,11 +1,11 @@
 # Helle! 👋, I'm Pragadeeswaran
 <p align="center">
-  <a href="https://www.linkedin.com/in/pragadeeswarans/">LinkedIn</a> 
+  
 </p>
 
 I'm, a Software developer living near Coimbatore, specialized in **Java** . I've been a **Java Programmer**, since **November 2020**. 
 
-I’m currently studying as **Electronics Engineer** @ **PA College Of Engineering** 
+I’m currently studying as **Electronics Engineer** @ **PA College Of Engineering And Technology** 
 Skills:
 -  C, Java
 - HTML, CSS, JavaScript & Bootstrap
