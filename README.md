@@ -3,7 +3,7 @@
   
 </p>
 
-I'm, a Software developer living near Coimbatore, specialized in **Java** . I've been a **Python Programmer**, since **November 2021**. 
+I'm, a Software developer living near Coimbatore, specialized in **Python** . I've been a **Python Programmer**, since **November 2021**. 
 
 I’m currently studying as **Electronics Engineer** @ **PA College Of Engineering And Technology** 
 Skills:
