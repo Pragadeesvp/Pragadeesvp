@@ -8,7 +8,7 @@ I'm, a Software developer living near Coimbatore, specialized in **Python** . I'
 I’m currently studying as **Electronics Engineer** @ **PA College Of Engineering And Technology** 
 Skills:
 -  C, Python
-- HTML, CSS, JavaScript & Bootstrap
+- HTML, CSS, JavaScript & Bootstrap, Angular
 - Photoshop & Video Animations
 
 I like to:
@@ -21,7 +21,7 @@ I like to:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddartha19&title_color=fff&text_color=9f9f9f&bg_color=151515&hide=jupyter%20notebook" alt="Siddartha's github stats" />
 
 
-
+<br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pragadeesvp&hide=issues&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=60" />
 
 
