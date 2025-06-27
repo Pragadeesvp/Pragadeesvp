@@ -7,8 +7,8 @@ I'm, a Software developer living near Coimbatore, specialized in **Python** . I'
 
 I’m currently studying as **Electronics Engineer** @ **PA College Of Engineering And Technology** 
 Skills:
--  C, Python
-- HTML, CSS, JavaScript & Bootstrap, Angular
+-  C#, .Net Core
+- HTML, CSS, JavaScript & Bootstrap, Angular Js
 - Photoshop & Video Animations
 
 I like to:
