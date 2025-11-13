@@ -1,43 +1,74 @@
-# Hello! 👋, I'm Pragadeeswaran
+<!-- Profile Header Banner -->
+<!-- <p align="center">
+  <img src="https://i.imgur.com/WSy1S0j.gif" width="800" />
+</p> -->
+
+<h1 align="center"> 👋 Hi, I'm <strong>Pragadeeswaran</strong> </h1>
+
 <p align="center">
-  
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+.NET+Developer;AngularJS+%26+Kendo+UI+Developer;SQL+Performance+Optimizer;Reactjs+Developer;Problem+Solver+%7C+Tech+Learner" />
 </p>
 
-I'm, a Software developer living near Coimbatore, specialized in **Python** . I've been a **Python Programmer**, since **November 2021**. 
+---
 
-I’m currently studying as **Electronics Engineer** @ **PA College Of Engineering And Technology** 
-Skills:
--  C#, .Net Core
-- HTML, CSS, JavaScript & Bootstrap, Angular Js
-- Photoshop & Video Animations
+## 🌟 About Me  
+I’m a **Full Stack .NET Developer** from **Coimbatore**, passionate about building scalable applications and crafting clean UI experiences.
 
-I like to:
-- develop the software that would solve the real problems and makes the world a better place.
-- flexibility and trust: I work for people that care about outcomes
-- push my limits in competitive programming
-- help the community around me by sharing my knowledge
+- 🔭 Currently working at **Vconnex Software Solutions**  
+- 🌱 Learning advanced **C#**, **.NET Core**, **Middleware**, **LINQ**, & **SQL Optimization**  
+- 💼 Experienced in **building dynamic Kendo Grids**, **AngularJS UI**, and **complex Web APIs**  
+- 💬 Ask me about **C#, SQL Server, Kendo UI, AngularJS, ASP.NET Core Web API**  
+- ⚡ Fun fact: I love **designing UI/UX** and creating **animated visuals**  
 
+---
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddartha19&title_color=fff&text_color=9f9f9f&bg_color=151515&hide=jupyter%20notebook" alt="Siddartha's github stats" />
+## ⚒️ Tech Stack (Animated Icons)
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,js,html,css,bootstrap,jquery,angular,py,git,github,mysql,postgres,figma,ai,ps&perline=9" />
+</p>
 
-<br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pragadeesvp&hide=issues&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=60" />
+---
 
+## 🔥 Featured Projects (Showcase Cards)
 
-### Find me around the web🌐
-- [LinkedIn](https://www.linkedin.com/in/pragadeeswarans/)
-- [Instagram](https://www.instagram.com/__.pragadees__/)
-- [Facebook](https://m.facebook.com/profile.php?id=100010540517154)
+### 🚧 **Dynamic Kendo Grid System (AngularJS + Web API)**
+A fully dynamic grid engine built using Kendo UI & AngularJS with custom editors, dropdown binding, conditional logic, and Excel export.  
+🔗 *Private project (Work-related)*
 
-Language Known:
-- English 
+## 📊 GitHub Stats (Animated)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pragadeesvp&show_icons=true&theme=radical&hide=issues" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragadeesvp&layout=compact&theme=radical" height="180" />
+</p>
+
+---
+
+## 🔥 Contribution Graph (Snake Animation)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/pragadeeswarans/"><img src="https://skillicons.dev/icons?i=linkedin" width="40px" /></a>
+  <a href="https://www.instagram.com/__.pragadees__/"><img src="https://skillicons.dev/icons?i=instagram" width="40px" /></a>
+  <a href="https://m.facebook.com/profile.php?id=100010540517154"><img src="https://skillicons.dev/icons?i=facebook" width="40px" /></a>
+</p>
+
+---
+
+## 🌍 Languages
+- English  
 - Tamil
 
+---
 
-
-
-<!---
-Pragadeesvp/Pragadeesvp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <em>“Code is like humor. When you have to explain it, it’s bad.”</em>
+</p>
