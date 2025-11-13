@@ -12,7 +12,7 @@
 ---
 
 ## 🌟 About Me  
-I’m a **Full Stack .NET Developer** from **Coimbatore**, passionate about building scalable applications and crafting clean UI experiences.
+I’m a **Full Stack .NET Developer** from **Bengaluru**, passionate about building scalable applications and crafting clean UI experiences.
 
 - 🔭 Currently working at **Vconnex Software Solutions**  
 - 🌱 Learning advanced **C#**, **.NET Core**, **Middleware**, **LINQ**, & **SQL Optimization**  
