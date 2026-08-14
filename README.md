@@ -59,27 +59,111 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:0EA5E9&height=2&section=header" width="72%" alt="" />
 </p>
 
+<p align="center">
+  <img src="./assets/glass-divider.svg" width="78%" alt="" />
+</p>
+
 <h2 align="center">🔥 Featured Projects (Showcase Cards)</h2>
 
 <br />
 
-<table width="100%">
-  <tr>
-    <td align="center">
-      <h3>🚧 Dynamic Kendo Grid System (AngularJS + Web API)</h3>
-      <p>A fully dynamic grid engine built using Kendo UI &amp; AngularJS with custom editors, dropdown binding, conditional logic, and Excel export.</p>
-      <p>🔗 <em>Private project (Work-related)</em></p>
-    </td>
-  </tr>
-</table>
+<!-- Public GitHub projects -->
+<p align="center">
+  <a href="https://github.com/Pragadeesvp/Job-Applications-Scheduler">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Pragadeesvp&amp;repo=Job-Applications-Scheduler&amp;bg_color=00000000&amp;title_color=F5F5F7&amp;text_color=A1A1A6&amp;icon_color=0A84FF&amp;border_color=303033&amp;border_radius=18"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Pragadeesvp&amp;repo=Job-Applications-Scheduler&amp;bg_color=00000000&amp;title_color=1D1D1F&amp;text_color=6E6E73&amp;icon_color=0071E3&amp;border_color=D2D2D7&amp;border_radius=18"
+      />
+      <img
+        width="49%"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Pragadeesvp&amp;repo=Job-Applications-Scheduler&amp;bg_color=00000000&amp;title_color=1D1D1F&amp;text_color=6E6E73&amp;icon_color=0071E3&amp;border_color=D2D2D7&amp;border_radius=18"
+        alt="Job Applications Scheduler"
+      />
+    </picture>
+  </a>
+
+  <a href="https://github.com/Pragadeesvp/explainUiQA">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Pragadeesvp&amp;repo=explainUiQA&amp;bg_color=00000000&amp;title_color=F5F5F7&amp;text_color=A1A1A6&amp;icon_color=0A84FF&amp;border_color=303033&amp;border_radius=18"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=Pragadeesvp&amp;repo=explainUiQA&amp;bg_color=00000000&amp;title_color=1D1D1F&amp;text_color=6E6E73&amp;icon_color=0071E3&amp;border_color=D2D2D7&amp;border_radius=18"
+      />
+      <img
+        width="49%"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Pragadeesvp&amp;repo=explainUiQA&amp;bg_color=00000000&amp;title_color=1D1D1F&amp;text_color=6E6E73&amp;icon_color=0071E3&amp;border_color=D2D2D7&amp;border_radius=18"
+        alt="QA Explain UI"
+      />
+    </picture>
+  </a>
+</p>
 
 <br />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:8B5CF6&height=2&section=header" width="72%" alt="" />
-</p>
-
-<h2 align="center">📊 GitHub Stats (Animated)</h2>
+<!-- AI work projects -->
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>🎙️ AI Voice-to-Form</h3>
+      <p>
+        Converted spoken field data into structured form values using
+        OpenAI Whisper, achieving approximately 95% transcription accuracy
+        and reducing manual data-entry effort by around 50%.
+      </p>
+      <p>
+        <code>OpenAI Whisper</code>
+        <code>ASP.NET Core</code>
+        <code>AngularJS</code>
+      </p>
+      <p>🔗 <em>Private project (Work-related)</em></p>
+  </tr>
+<tr>
+    <td width="50%" valign="top" align="center">
+      <h3>🧠 AI Semantic Search</h3>
+      <p>
+        Built semantic search using AWS Bedrock embeddings and OpenSearch
+        vector indexing to retrieve relevant work orders beyond exact
+        keyword matches.
+      </p>
+      <p>
+        <code>AWS Bedrock</code>
+        <code>OpenSearch</code>
+        <code>Vector Search</code>
+      </p>
+      <p>🔗 <em>Private project (Work-related)</em></p>
+    </td>
+</tr>
+  <tr>
+     <td align="center">
+      <h3>💼 Job Applications Scheduler</h3>
+      <p>
+        An automated job-search and application management system that
+        discovers recent matching opportunities, filters jobs by skills,
+        experience, location and posting date, removes duplicate listings,
+        and helps organize the complete application workflow.
+      </p>
+      <p>
+        <code>Job Search Automation</code>
+        <code>Multi-Source Search</code>
+        <code>Smart Filtering</code>
+        <code>Application Tracking</code>
+      </p>
+      <p>
+        <a href="https://github.com/Pragadeesvp/Job-Applications-Scheduler">
+          🔗 View Repository
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br />
 
